@@ -12,25 +12,25 @@
 
 - **Add Task**
 <p align="center">
-  <img src="images/AddTask.jpg" alt="Add Task" width="600">
+  <img src="resources/views/images/AddTask.jpg" alt="Add Task" width="600">
 </p>
 
 - **View Tasks**
 <p align="center">
-  <img src="images/ViewTask.jpg" alt="View Tasks" width="600">
+  <img src="resources/views/images/ViewTask.jpg" alt="View Tasks" width="600">
 </p>
 
 - **Edit Task**
 <p align="center">
-  <img src="images/EditTask.jpg" alt="Edit Task" width="600">
+  <img src="resources/views/images/EditTask.jpg" alt="Edit Task" width="600">
 </p>
 
 - **Delete Task**
 <p align="center">
-  <img src="images/DeleteTask.jpg" alt="Delete Task" width="600">
+  <img src="resources/views/images/DeleteTask.jpg" alt="Delete Task" width="600">
 </p>
 
 - **Update Status**
 <p align="center">
-  <img src="images/UpdateStatus.jpg" alt="Update Status" width="600">
+  <img src="resources/views/images/UpdateTask.jpg" alt="Update Status" width="600">
 </p>
